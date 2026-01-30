@@ -3,6 +3,7 @@ kind: Component
 metadata:
   name: srs-mfa
   description: SRS Multi Factor Authentication
+  tags: ["srs"]
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: Lintasarta/srs-mfa-v1.0
